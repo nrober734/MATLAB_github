@@ -6,3 +6,7 @@
 
 #donor_extractor_multiple.m
 #This is a MATLAB script to extract campaign donor information from the Secretary of State's webpage, and compile it into a #cleanly formatted Excel spreadsheet.  Includes options to filter based on address.
+
+#trig_script.m
+
+#This is a MATLAB script to display a dynamic trigonometry simulation of a roving value marker on a sine curve next to the #corresponding position on the unit circle.  Built as a simple demonstration to help sister with precalculus concepts.
